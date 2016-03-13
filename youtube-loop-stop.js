@@ -5,6 +5,6 @@
 */
 
 //  get video element
-var video = $('video');
+var video = document.querySelector('video');
 // turn off video loop
 video.loop = false;
