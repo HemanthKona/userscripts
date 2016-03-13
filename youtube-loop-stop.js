@@ -6,5 +6,5 @@
 
 //  get video element
 var video = $('video');
-// turn on video loop
+// turn off video loop
 video.loop = false;
