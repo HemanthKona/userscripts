@@ -1,6 +1,6 @@
 /* loopVideoSegment.js
  *
- *  Get first video element on the page and loop from given start and end time
+ *  Get first video element on the page and loop from given start to end time
  *
  * @param start: integer (seconds)
  * @param end: integer (seconds)
